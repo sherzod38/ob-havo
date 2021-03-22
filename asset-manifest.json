@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ad33d88.chunk.css",
+    "main.js": "/static/js/main.f0a58aa8.chunk.js",
+    "main.js.map": "/static/js/main.f0a58aa8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc32b289.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc32b289.js.map",
+    "static/js/2.fa0c03f7.chunk.js": "/static/js/2.fa0c03f7.chunk.js",
+    "static/js/2.fa0c03f7.chunk.js.map": "/static/js/2.fa0c03f7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8ad33d88.chunk.css.map": "/static/css/main.8ad33d88.chunk.css.map",
+    "static/js/2.fa0c03f7.chunk.js.LICENSE.txt": "/static/js/2.fa0c03f7.chunk.js.LICENSE.txt",
+    "static/media/drizzle.1fb8a72d.svg": "/static/media/drizzle.1fb8a72d.svg",
+    "static/media/rain.05f5a7b7.svg": "/static/media/rain.05f5a7b7.svg",
+    "static/media/snow.8e96e019.svg": "/static/media/snow.8e96e019.svg",
+    "static/media/stratuscumulus.bc3585bd.svg": "/static/media/stratuscumulus.bc3585bd.svg",
+    "static/media/sunrise.f287b3b2.svg": "/static/media/sunrise.f287b3b2.svg",
+    "static/media/thunder.ff061d8c.svg": "/static/media/thunder.ff061d8c.svg",
+    "static/media/tornado.4de02705.svg": "/static/media/tornado.4de02705.svg",
+    "static/media/weathercock.76030378.svg": "/static/media/weathercock.76030378.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc32b289.js",
+    "static/js/2.fa0c03f7.chunk.js",
+    "static/css/main.8ad33d88.chunk.css",
+    "static/js/main.f0a58aa8.chunk.js"
+  ]
+}
